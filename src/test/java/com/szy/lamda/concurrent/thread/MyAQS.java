@@ -10,7 +10,7 @@ import java.util.concurrent.locks.Condition;
 /**
  * 〈一句话功能简述〉<br>
  * 〈手抄 jdk AQS〉
- *
+ *  尽量简化一下，理解为什么需要AQS，如何使用AQS， 至少 要做什么，再进一步结合JDK源代码中的实践，理解AQS的原理与应用
  * @author sunzhengyu
  * @create 2019/7/30
  * @since 1.0.0

@@ -20,8 +20,4 @@ package com.szy.lambda;
  */
 public class LamdaAlpha {
 
-
-    public void test4Predicate(){
-
-    }
 }
